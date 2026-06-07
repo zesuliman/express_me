@@ -46,5 +46,4 @@ If you find an issue or would like to submit an improvement, please submit an is
 This project is still ongoing. The user interface and portions of the business logic are currently in development. Stay tuned for updates!
 
 ☕ Like this project?
-(If you are feeling generous, buy me a coffee!) - [https://buymeacoffee.com/zeinab.ibrahim]
-
+If you find this project helpful and are feeling generous,  [buy me a coffee!](https://buymeacoffee.com/zeinab.ibrahim?new=1) 
