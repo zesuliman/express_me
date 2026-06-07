@@ -23,8 +23,6 @@
 * **Security:** Implementing robust data protection and secure payment handling.
 * **Scalability:** Architecting the system to grow seamlessly alongside product demand.
 
-## 📺 Watch the Full Series!
-*(Add your YouTube video link or image placeholder here!)*
 
 ## 🚀 Getting Started
 
