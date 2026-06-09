@@ -2,11 +2,6 @@
 
 **ExpressMe** is more than just a store; it is a platform designed for individuals to shop for items that communicate their character, preferences, and unique personality to the world. We don't just help our clients get dressed—we help them express themselves.
 
-## 🌟 Our Core Values
-* **Individuality**: We celebrate what makes you different.
-* **Quality**: Pieces designed to last as long as your impression does.
-* **Expression**: Because blending in is boring.
-
 ## ✨ Key Features
 * **Seller Tools**: Comprehensive management for pricing, multiple currencies, inventory, and product listings.
 * **Marketing Suite**: Full control over discounts, promotions, vouchers, cart rules, and gift cards.
