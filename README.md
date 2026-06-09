@@ -27,7 +27,7 @@ The easiest way to see how this works is to launch the app instantly using Docke
 2. Open your terminal, navigate to the folder containing the file, and run:
    ```bash
    docker-compose up
-Docker will automatically download the correct version of MySQL, initialize the database schema, install the dependencies, and launch the application.
+3. Docker will automatically download the correct version of MySQL, initialize the database schema, install the dependencies, and launch the application.
 
 💡 How to Tweak This Project for Your Own Uses
 Since this is an example project, I encourage you to clone and rename this repository to use for your own purposes. It is a great starter boilerplate for building modern, scalable e-commerce solutions!
